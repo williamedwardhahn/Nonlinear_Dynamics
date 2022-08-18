@@ -2,7 +2,7 @@
 
 ## Analog
 
-Differential Analyzer(https://github.com/williamedwardhahn/differentialanalyzer)
+[Differential Analyzer](https://github.com/williamedwardhahn/differentialanalyzer)
 
 [Understanding the Analog / Hybrid Computer](https://www.youtube.com/watch?v=Ys7v7lnLgbM)
 
