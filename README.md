@@ -4,7 +4,7 @@
 
 [Understanding the Analog / Hybrid Computer](https://www.youtube.com/watch?v=Ys7v7lnLgbM)
 
-[DDA](https://en.wikipedia.org/wiki/Digital_differential_analyzer)
+[Digital Differential Analyzer](https://en.wikipedia.org/wiki/Digital_differential_analyzer)
 
 [Analog Computer Simulator](https://colab.research.google.com/drive/1VQTNGLuBzGDs8XBkbdXCfjCTRChieywx?usp=sharing)
 
