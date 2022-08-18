@@ -10,6 +10,10 @@
 
 [Far Out: Hybrid Computing](https://www.youtube.com/watch?v=njp0ABKwrXA)
 
+[Heron](https://nereus.mech.ntua.gr/Documents/pdf_ps/heron.pdf)
+
+[Pneumatica and Automata](https://ia800209.us.archive.org/8/items/heronsvonalexandhero/heronsvonalexandhero.pdf)
+
 ## Digital
 
 <a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
