@@ -2,7 +2,7 @@
 
 ## Analog
 
-[Differential Analyzer Links](https://github.com/williamedwardhahn/differentialanalyzer)
+[Analog Computer Simulator](https://colab.research.google.com/drive/1VQTNGLuBzGDs8XBkbdXCfjCTRChieywx?usp=sharing)
 
 [Analog / Hybrid Computer Programming](https://github.com/williamedwardhahn/differentialanalyzer/blob/main/Analog%20and%20Hybrid%20Computer%20Programming.pdf)
 
@@ -10,13 +10,13 @@
 
 [Digital Differential Analyzer](https://en.wikipedia.org/wiki/Digital_differential_analyzer)
 
-[Analog Computer Simulator](https://colab.research.google.com/drive/1VQTNGLuBzGDs8XBkbdXCfjCTRChieywx?usp=sharing)
-
 [Far Out: Hybrid Computing](https://www.youtube.com/watch?v=njp0ABKwrXA)
 
 [Heron](https://nereus.mech.ntua.gr/Documents/pdf_ps/heron.pdf)
 
 [Pneumatica and Automata](https://ia800209.us.archive.org/8/items/heronsvonalexandhero/heronsvonalexandhero.pdf)
+
+[Differential Analyzer Links](https://github.com/williamedwardhahn/differentialanalyzer)
 
 ## Digital
 
