@@ -1,5 +1,7 @@
 # Nonlinear Dynamics
 
+<img src='https://assets.rbl.ms/25584499/origin.jpg'>
+
 ## Analog
 
 [Analog Computer Simulator](https://colab.research.google.com/drive/1VQTNGLuBzGDs8XBkbdXCfjCTRChieywx?usp=sharing)
