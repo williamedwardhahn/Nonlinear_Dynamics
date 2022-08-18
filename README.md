@@ -8,6 +8,8 @@
 
 [Analog Computer Simulator](https://colab.research.google.com/drive/1VQTNGLuBzGDs8XBkbdXCfjCTRChieywx?usp=sharing)
 
+[Far Out: Hybrid Computers](https://www.youtube.com/watch?v=njp0ABKwrXA)
+
 ## Digital
 
 <a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
