@@ -1,4 +1,4 @@
-# Nonlinear_Dynamics
+# Nonlinear Dynamics
 
 https://mpcrlab.github.io/oisc-js/
 
