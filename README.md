@@ -52,3 +52,8 @@
 <a href="https://skilldrick.github.io/easyforth/">Easy Forth</a>
 
 <a href="https://mishaklopukh.github.io/fithlang/">Fith</a>
+
+
+## Hardware
+
+Micropython setup on ESP32 (https://www.youtube.com/watch?v=Dznz81AbxgQ)
