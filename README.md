@@ -56,4 +56,4 @@
 
 ## Hardware
 
-Micropython setup on ESP32 (https://www.youtube.com/watch?v=Dznz81AbxgQ)
+[Micropython setup on ESP32](https://www.youtube.com/watch?v=Dznz81AbxgQ)
