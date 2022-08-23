@@ -22,7 +22,7 @@
 
 ## Digital
 
-[F21 and F*F Forth Chip](http://www.ultratechnology.com/forml93.html)
+[F21 Forth Chip](http://www.ultratechnology.com/forml93.html)
 
 <a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
 
