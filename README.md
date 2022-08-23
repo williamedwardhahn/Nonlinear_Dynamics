@@ -22,6 +22,8 @@
 
 ## Digital
 
+[F21 and F*F Forth Chip](http://www.ultratechnology.com/forml93.html)
+
 <a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
 
 <a href="https://www.youtube.com/watch?v=z6yL0_sDnX0">James Burke Connections: Faith in Numbers</a>
