@@ -3,12 +3,14 @@
 <img src='https://assets.rbl.ms/25584499/origin.jpg'>
 
 
-
-## Digital
-
+## Video Links
 <a href="https://www.youtube.com/watch?v=z6yL0_sDnX0">James Burke Connections: Faith in Numbers</a>
 
+[The Strange New Science of Chaos](https://www.youtube.com/watch?v=wdrO0Nwztrg)
+
 <!--
+## Digital
+
 
 ## Analog
 
