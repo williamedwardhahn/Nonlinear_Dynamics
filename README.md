@@ -2,6 +2,14 @@
 
 <img src='https://assets.rbl.ms/25584499/origin.jpg'>
 
+
+
+## Digital
+
+<a href="https://www.youtube.com/watch?v=z6yL0_sDnX0">James Burke Connections: Faith in Numbers</a>
+
+<!--
+
 ## Analog
 
 [Analog Computer Simulator](https://colab.research.google.com/drive/1VQTNGLuBzGDs8XBkbdXCfjCTRChieywx?usp=sharing)
@@ -20,13 +28,10 @@
 
 [Differential Analyzer Links](https://github.com/williamedwardhahn/differentialanalyzer)
 
-## Digital
-
 [F21 Forth Chip](http://www.ultratechnology.com/forml93.html)
 
 <a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
 
-<a href="https://www.youtube.com/watch?v=z6yL0_sDnX0">James Burke Connections: Faith in Numbers</a>
 
 <a href="https://en.wikipedia.org/wiki/Jacquard_machine">Jacquard Machine Wiki</a>
 
@@ -57,3 +62,5 @@
 ## Hardware
 
 [Micropython setup on ESP32](https://www.youtube.com/watch?v=Dznz81AbxgQ)
+
+-->
