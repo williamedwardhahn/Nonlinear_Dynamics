@@ -10,7 +10,7 @@
 
 [The Machine That Changed the World - Giant Brains](https://www.youtube.com/watch?v=hayi9AsDXDo)
 
-[Analog Computers](https://www.youtube.com/watch?v=IgF3OX8nT0w) 
+[The Most Powerful Computers You've Never Heard Of](https://www.youtube.com/watch?v=IgF3OX8nT0w) 
 
 [Understanding the Analog / Hybrid Computer](https://www.youtube.com/watch?v=Ys7v7lnLgbM)
 
