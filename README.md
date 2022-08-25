@@ -10,6 +10,10 @@
 
 [The Machine That Changed the World - Giant Brains](https://www.youtube.com/watch?v=hayi9AsDXDo)
 
+[Analog Computers](https://www.youtube.com/watch?v=IgF3OX8nT0w) 
+
+[Understanding the Analog / Hybrid Computer](https://www.youtube.com/watch?v=Ys7v7lnLgbM)
+
 <!--
 ## Digital
 
@@ -20,7 +24,7 @@
 
 [Analog / Hybrid Computer Programming](https://github.com/williamedwardhahn/differentialanalyzer/blob/main/Analog%20and%20Hybrid%20Computer%20Programming.pdf)
 
-[Understanding the Analog / Hybrid Computer](https://www.youtube.com/watch?v=Ys7v7lnLgbM)
+
 
 [Digital Differential Analyzer](https://en.wikipedia.org/wiki/Digital_differential_analyzer)
 
