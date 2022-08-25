@@ -8,6 +8,8 @@
 
 [The Strange New Science of Chaos](https://www.youtube.com/watch?v=wdrO0Nwztrg)
 
+[The Machine That Changed the World - Giant Brains](https://www.youtube.com/watch?v=hayi9AsDXDo)
+
 <!--
 ## Digital
 
