@@ -14,6 +14,12 @@
 
 [Understanding the Analog / Hybrid Computer](https://www.youtube.com/watch?v=Ys7v7lnLgbM)
 
+
+## Notebooks
+
+[Logistic Map](https://colab.research.google.com/drive/1AXvr15Nul4g9yTho3mykB5u6QOyY9TF3?usp=sharing)
+
+
 <!--
 ## Digital
 
