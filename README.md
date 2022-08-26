@@ -26,7 +26,7 @@
 
 ## Analog
 
-[Analog Computer Simulator](https://colab.research.google.com/drive/1VQTNGLuBzGDs8XBkbdXCfjCTRChieywx?usp=sharing)
+[Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
 
 [Analog / Hybrid Computer Programming](https://github.com/williamedwardhahn/differentialanalyzer/blob/main/Analog%20and%20Hybrid%20Computer%20Programming.pdf)
 
