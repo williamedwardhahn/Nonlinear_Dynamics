@@ -17,6 +17,8 @@
 
 ## Notebooks
 
+[Chaos Game](https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing)
+
 [Logistic Map](https://colab.research.google.com/drive/1AXvr15Nul4g9yTho3mykB5u6QOyY9TF3?usp=sharing)
 
 [Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
