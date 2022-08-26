@@ -14,6 +14,10 @@
 
 [Understanding the Analog / Hybrid Computer](https://www.youtube.com/watch?v=Ys7v7lnLgbM)
 
+[Chua Lectures](https://www.youtube.com/watch?v=B9Z2Ktacd4s&list=PLWIjtByUJvcvT3IgfDyej4yEpLgyAn2L9)
+
+[Hamming Lectures](https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30)
+
 
 ## Notebooks
 
