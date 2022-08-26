@@ -16,7 +16,7 @@
 
 [Chua Lectures](https://www.youtube.com/watch?v=B9Z2Ktacd4s&list=PLWIjtByUJvcvT3IgfDyej4yEpLgyAn2L9)
 
-[Hamming Lectures](https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30)
+
 
 
 ## Notebooks
@@ -28,6 +28,9 @@
 [Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
 
 <!--
+
+[Hamming Lectures](https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30)
+
 ## Digital
 
 ## Analog
