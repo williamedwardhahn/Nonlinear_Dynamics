@@ -12,6 +12,8 @@
 
 [The Most Powerful Computers You've Never Heard Of](https://www.youtube.com/watch?v=IgF3OX8nT0w) 
 
+[Future Computers Will Be Radically Different](https://www.youtube.com/watch?v=GVsUOuSjvcg)
+
 [Understanding the Analog / Hybrid Computer](https://www.youtube.com/watch?v=Ys7v7lnLgbM)
 
 [Chua Lectures](https://www.youtube.com/watch?v=B9Z2Ktacd4s&list=PLWIjtByUJvcvT3IgfDyej4yEpLgyAn2L9)
