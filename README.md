@@ -18,7 +18,7 @@
 
 [Chua Lectures](https://www.youtube.com/watch?v=B9Z2Ktacd4s&list=PLWIjtByUJvcvT3IgfDyej4yEpLgyAn2L9)
 
-
+[Mechanical Computers](https://www.youtube.com/watch?v=s1i-dnAH9Y4)
 
 
 ## Notebooks
