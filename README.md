@@ -27,6 +27,9 @@
 
 <!--
 
+
+[HH Neuron](https://colab.research.google.com/drive/1P_U_JLbODVt9tcxwNCgut6jTovYQbBhN?usp=sharing)
+
 https://github.com/GollyGang
 
 [Logistic Map](https://colab.research.google.com/drive/1AXvr15Nul4g9yTho3mykB5u6QOyY9TF3?usp=sharing)
