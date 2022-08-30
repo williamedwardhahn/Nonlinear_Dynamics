@@ -22,6 +22,8 @@
 
 [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)
 
+[Chaos Book](https://github.com/williamedwardhahn/Nonlinear_Dynamics/blob/main/Chaos.pdf)
+
 
 ## Notebooks
 
