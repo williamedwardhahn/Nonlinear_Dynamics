@@ -2,6 +2,10 @@
 
 <img src='https://assets.rbl.ms/25584499/origin.jpg'>
 
+## Books
+
+[Chaos Book](https://github.com/williamedwardhahn/Nonlinear_Dynamics/blob/main/Chaos.pdf)
+
 
 ## Video Links
 <a href="https://www.youtube.com/watch?v=z6yL0_sDnX0">James Burke Connections: Faith in Numbers</a>
@@ -29,9 +33,6 @@
 [Logistic Map](https://colab.research.google.com/drive/1AXvr15Nul4g9yTho3mykB5u6QOyY9TF3?usp=sharing)
 
 
-## Books
-
-[Chaos Book](https://github.com/williamedwardhahn/Nonlinear_Dynamics/blob/main/Chaos.pdf)
 
 
 <!--
