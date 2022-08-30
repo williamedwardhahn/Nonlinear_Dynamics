@@ -22,14 +22,16 @@
 
 [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)
 
-[Chaos Book](https://github.com/williamedwardhahn/Nonlinear_Dynamics/blob/main/Chaos.pdf)
-
-
 ## Notebooks
 
 [Chaos Game](https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing)
 
 [Logistic Map](https://colab.research.google.com/drive/1AXvr15Nul4g9yTho3mykB5u6QOyY9TF3?usp=sharing)
+
+
+## Books
+
+[Chaos Book](https://github.com/williamedwardhahn/Nonlinear_Dynamics/blob/main/Chaos.pdf)
 
 
 <!--
