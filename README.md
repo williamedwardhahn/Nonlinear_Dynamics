@@ -8,6 +8,9 @@
 
 
 ## Video Links
+
+Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
+
 <a href="https://www.youtube.com/watch?v=z6yL0_sDnX0">James Burke Connections: Faith in Numbers</a>
 
 [The Strange New Science of Chaos](https://www.youtube.com/watch?v=wdrO0Nwztrg)
@@ -29,6 +32,8 @@
 [The Secret Life Of Chaos](https://www.dailymotion.com/video/xv1j0n)
 
 [Space-Time Dynamics in Video Feedback](https://www.youtube.com/watch?v=B4Kn3djJMCE)
+
+[Arthur C Clarke - Fractals: The Colours of Infinity](https://www.youtube.com/watch?v=DyeR19m8gGk&list=PLWmIsQcAzRkqmWnt75z5YGhSe3GuhQGjN&index=16)
 
 
 ## Notebooks
