@@ -26,6 +26,11 @@
 
 [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk)
 
+[The Secret Life Of Chaos](https://www.dailymotion.com/video/xv1j0n)
+
+PDE [Space-Time Dynamics in Video Feedback](https://www.youtube.com/watch?v=B4Kn3djJMCE)
+
+
 ## Notebooks
 
 [Chaos Game](https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing)
@@ -39,6 +44,9 @@
 
 
 <!--
+
+
+
 
 https://www.nature.com/articles/482461a
 
