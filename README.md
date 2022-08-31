@@ -35,6 +35,8 @@
 ## Links
 [Chaos Game](https://math.hws.edu/eck/js/chaos-game/CG.html)
 
+[Code Parade](https://www.youtube.com/c/CodeParade/videos)
+
 
 <!--
 
