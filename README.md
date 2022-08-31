@@ -37,6 +37,8 @@ PDE [Space-Time Dynamics in Video Feedback](https://www.youtube.com/watch?v=B4Kn
 
 [Logistic Map](https://colab.research.google.com/drive/1AXvr15Nul4g9yTho3mykB5u6QOyY9TF3?usp=sharing)
 
+[Mandelbrot Set](https://colab.research.google.com/drive/1oPxGp0FM8leTyp2yX7bmyCwgqNhRxFRt?usp=sharing)
+
 ## Links
 [Chaos Game](https://math.hws.edu/eck/js/chaos-game/CG.html)
 
