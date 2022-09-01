@@ -44,6 +44,11 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Mandelbrot Set](https://colab.research.google.com/drive/1oPxGp0FM8leTyp2yX7bmyCwgqNhRxFRt?usp=sharing)
 
+[HH Neuron](https://colab.research.google.com/drive/1P_U_JLbODVt9tcxwNCgut6jTovYQbBhN?usp=sharing)
+
+[Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
+
+
 ## Links
 [Chaos Game](https://math.hws.edu/eck/js/chaos-game/CG.html)
 
@@ -59,12 +64,10 @@ https://www.nature.com/articles/482461a
 
 http://dataphys.org/list/
 
-[HH Neuron](https://colab.research.google.com/drive/1P_U_JLbODVt9tcxwNCgut6jTovYQbBhN?usp=sharing)
 
 https://github.com/GollyGang
 
 
-[Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
 
 
 
