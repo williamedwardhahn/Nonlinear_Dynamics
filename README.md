@@ -35,6 +35,9 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Arthur C Clarke - Fractals: The Colours of Infinity](https://www.youtube.com/watch?v=DyeR19m8gGk&list=PLWmIsQcAzRkqmWnt75z5YGhSe3GuhQGjN&index=16)
 
+[Benoit Mandelbrot: Fractals and the Art of Roughness
+](https://www.youtube.com/watch?v=ay8OMOsf6AQ&list=PLWmIsQcAzRkqmWnt75z5YGhSe3GuhQGjN&index=33)
+
 
 ## Notebooks
 
