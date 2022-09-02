@@ -52,6 +52,12 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 [Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
 
 
+## Software
+
+[Golly](http://golly.sourceforge.net/)
+[Ready](https://github.com/GollyGang/ready)
+
+
 ## Links
 [Chaos Game](https://math.hws.edu/eck/js/chaos-game/CG.html)
 
