@@ -55,6 +55,7 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 ## Software
 
 [Golly](http://golly.sourceforge.net/)
+
 [Ready](https://github.com/GollyGang/ready)
 
 
