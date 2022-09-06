@@ -49,7 +49,11 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [HH Neuron](https://colab.research.google.com/drive/1P_U_JLbODVt9tcxwNCgut6jTovYQbBhN?usp=sharing)
 
+[Percolation](https://colab.research.google.com/drive/17l95Cv1nOLSGCVUYgNW-qL9lKJ1Cb4dB?usp=sharing)
+
 [Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
+
+
 
 
 ## Software
