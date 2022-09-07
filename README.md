@@ -51,6 +51,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Percolation](https://colab.research.google.com/drive/17l95Cv1nOLSGCVUYgNW-qL9lKJ1Cb4dB?usp=sharing)
 
+[CA & PDA](https://colab.research.google.com/drive/1AQj7OpQ0k8NVG9iSBO9ve0FPlGvhRND6?usp=sharing)
+
 [Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
 
 
