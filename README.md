@@ -48,6 +48,9 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Never Say Never](https://www.youtube.com/watch?v=FvXwVZPOoBI)
 
+[The Grand Narrative of the History of Computing](https://www.youtube.com/watch?v=njwQgz63rIs)
+
+
 ## Notebooks
 
 [Chaos Game](https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing)
