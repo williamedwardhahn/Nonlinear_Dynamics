@@ -40,6 +40,11 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Intro/History: Introducing a 100-year-old mechanical computer](https://www.youtube.com/watch?v=NAsM30MAHLg&list=PL0INsTTU1k2UYO9Mck-i5HNqGNW5AeEwq&index=1&t=29s)
 
+[Analog Video Processor](https://www.youtube.com/watch?v=0wxc3mKqKTk)
+
+[Far Out: Hybrid Computing](https://www.youtube.com/watch?v=njp0ABKwrXA)
+
+<a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
 
 ## Notebooks
 
@@ -56,6 +61,7 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 [CA & PDA](https://colab.research.google.com/drive/1AQj7OpQ0k8NVG9iSBO9ve0FPlGvhRND6?usp=sharing)
 
 [Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
+
 
 
 
@@ -101,7 +107,7 @@ https://github.com/GollyGang
 
 [Digital Differential Analyzer](https://en.wikipedia.org/wiki/Digital_differential_analyzer)
 
-[Far Out: Hybrid Computing](https://www.youtube.com/watch?v=njp0ABKwrXA)
+
 
 [Heron](https://nereus.mech.ntua.gr/Documents/pdf_ps/heron.pdf)
 
@@ -111,7 +117,7 @@ https://github.com/GollyGang
 
 [F21 Forth Chip](http://www.ultratechnology.com/forml93.html)
 
-<a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
+
 
 
 <a href="https://en.wikipedia.org/wiki/Jacquard_machine">Jacquard Machine Wiki</a>
