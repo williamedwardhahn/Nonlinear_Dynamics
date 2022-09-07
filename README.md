@@ -38,6 +38,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 [Benoit Mandelbrot: Fractals and the Art of Roughness
 ](https://www.youtube.com/watch?v=ay8OMOsf6AQ&list=PLWmIsQcAzRkqmWnt75z5YGhSe3GuhQGjN&index=33)
 
+[Intro/History: Introducing a 100-year-old mechanical computer](https://www.youtube.com/watch?v=NAsM30MAHLg&list=PL0INsTTU1k2UYO9Mck-i5HNqGNW5AeEwq&index=1&t=29s)
+
 
 ## Notebooks
 
