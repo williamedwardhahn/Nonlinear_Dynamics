@@ -46,6 +46,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 <a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
 
+[Never Say Never](https://www.youtube.com/watch?v=FvXwVZPOoBI)
+
 ## Notebooks
 
 [Chaos Game](https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing)
