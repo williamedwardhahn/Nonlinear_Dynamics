@@ -50,6 +50,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [The Grand Narrative of the History of Computing](https://www.youtube.com/watch?v=njwQgz63rIs)
 
+[Analog Supercomputers: From Quantum Atom to Living Body](https://www.youtube.com/watch?v=ZycidN_GYo0)
+
 
 ## Notebooks
 
