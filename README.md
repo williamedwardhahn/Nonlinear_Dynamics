@@ -67,9 +67,9 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Analog Computer Simulator](https://colab.research.google.com/drive/1PJxiK3mdU8lSCYjEFsU7zrl9yXPMEDvM?usp=sharing)
 
-
-
-
+<!--
+[Pytorch Linear](https://colab.research.google.com/drive/12kqspkA8OTwX4Vcv8FCsEKx9mrwm6wV-?usp=sharing)
+-->
 
 ## Software
 
