@@ -52,6 +52,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Analog Supercomputers: From Quantum Atom to Living Body](https://www.youtube.com/watch?v=ZycidN_GYo0)
 
+[Computational Phenomena in Physics](https://www.youtube.com/watch?v=hJibtaTmLtU)
+
 
 ## Notebooks
 
