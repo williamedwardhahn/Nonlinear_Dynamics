@@ -56,6 +56,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [The Computer And The Mind Of Man](https://youtube.com/playlist?list=PLWmIsQcAzRkqlJjLxg888istjDaCjW_IJ)
 
+[Richard Hamming, The Art of Doing Science and Engineering](https://youtube.com/playlist?list=PL2FF649D0C4407B30)
+
 
 ## Notebooks
 
