@@ -54,6 +54,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Computational Phenomena in Physics](https://www.youtube.com/watch?v=hJibtaTmLtU)
 
+[The Computer And The Mind Of Man](https://youtube.com/playlist?list=PLWmIsQcAzRkqlJjLxg888istjDaCjW_IJ)
+
 
 ## Notebooks
 
