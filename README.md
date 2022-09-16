@@ -54,6 +54,15 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Computational Phenomena in Physics](https://www.youtube.com/watch?v=hJibtaTmLtU)
 
+<a href="https://techchannel.att.com/play-video.cfm/2012/8/22/AT&T-Archives-Digital-Computer-Techniques">Digital Computer Techniques: Introduction
+</a>
+
+<a href="https://techchannel.att.com/playvideo/2012/11/19/AT&T-Archives-Digital-Computer-Techniques-Programming">Digital Computer Techniques: Programming</a>
+
+<a href="https://techchannel.att.com/play-video.cfm/2012/11/21/at&t-archives-digital-computer-techniques-computer-units">Digital Computer Techniques: Computer Units</a>
+
+<a href="https://www.youtube.com/watch?v=E3keLeMwfHY">Turing Machine</a>
+
 [The Computer And The Mind Of Man](https://youtube.com/playlist?list=PLWmIsQcAzRkqlJjLxg888istjDaCjW_IJ)
 
 [Richard Hamming, The Art of Doing Science and Engineering](https://youtube.com/playlist?list=PL2FF649D0C4407B30)
@@ -135,14 +144,7 @@ https://github.com/GollyGang
 
 <a href="https://en.wikipedia.org/wiki/Jacquard_machine">Jacquard Machine Wiki</a>
 
-<a href="https://techchannel.att.com/play-video.cfm/2012/8/22/AT&T-Archives-Digital-Computer-Techniques">Digital Computer Techniques: Introduction
-</a>
 
-<a href="https://techchannel.att.com/playvideo/2012/11/19/AT&T-Archives-Digital-Computer-Techniques-Programming">Digital Computer Techniques: Programming</a>
-
-<a href="https://techchannel.att.com/play-video.cfm/2012/11/21/at&t-archives-digital-computer-techniques-computer-units">Digital Computer Techniques: Computer Units</a>
-
-<a href="https://www.youtube.com/watch?v=E3keLeMwfHY">Turing Machine</a>
 
 <a href="https://docs.google.com/presentation/d/18MdBrNyvkrDmge6TshkISkdTC8iUrcNRomAbgyW7ylg/edit?usp=sharing">OISC</a>
 
