@@ -5,7 +5,7 @@
 ## Books
 
 [Chaos Book](https://github.com/williamedwardhahn/Nonlinear_Dynamics/blob/main/Chaos.pdf)
-
+[DSN](https://www.izhikevich.org/publications/dsn.pdf)
 
 ## Video Links
 
@@ -67,6 +67,7 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Richard Hamming, The Art of Doing Science and Engineering](https://youtube.com/playlist?list=PL2FF649D0C4407B30)
 
+[Water Computer](https://www.youtube.com/watch?v=nmxV0FtsOnc)
 
 ## Notebooks
 
