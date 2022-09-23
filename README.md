@@ -73,6 +73,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Fluid Computers](https://arxiv.org/pdf/1811.09989.pdf)
 
+[Life - Nonlife](https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life?language=en)
+
 ## Notebooks
 
 [Chaos Game](https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing)
