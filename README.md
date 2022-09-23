@@ -69,6 +69,10 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Water Computer](https://www.youtube.com/watch?v=nmxV0FtsOnc)
 
+[Soliton](https://en.wikipedia.org/wiki/Soliton_model_in_neuroscience#:~:text=The%20soliton%20hypothesis%20in%20neuroscience,theory%20of%20nerve%20pulse%20propagation.)
+
+[Fluid Computers](https://arxiv.org/pdf/1811.09989.pdf)
+
 ## Notebooks
 
 [Chaos Game](https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing)
