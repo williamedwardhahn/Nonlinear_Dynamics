@@ -93,6 +93,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Vector Fields](https://colab.research.google.com/drive/1goRa20K85zy6MD_EC4Hb3zZ9v97X8eK7?usp=sharing)
 
+[Reservoir Computer](https://colab.research.google.com/drive/1Npy7TXzsS9qRWOM1s0ppdEzvyACA-VVx?usp=sharing)
+
 <!--
 [Pytorch Linear](https://colab.research.google.com/drive/12kqspkA8OTwX4Vcv8FCsEKx9mrwm6wV-?usp=sharing)
 -->
