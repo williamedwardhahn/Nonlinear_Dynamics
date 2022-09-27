@@ -7,6 +7,20 @@
 [Chaos Book](https://github.com/williamedwardhahn/Nonlinear_Dynamics/blob/main/Chaos.pdf)
 [DSN](https://www.izhikevich.org/publications/dsn.pdf)
 
+## Links
+
+[Evolving Virtual Creatures](https://www.karlsims.com/papers/siggraph94.pdf)
+
+[Evolving 3D Morphology and Behavior by Competition](https://www.karlsims.com/papers/alife94.pdf)
+
+[http://www.karlsims.com/rd.html](http://www.karlsims.com/rd.html)
+
+[RD Tool](https://www.karlsims.com/rdtool.html)
+
+[FFT](https://www.karlsims.com/fft.html)
+
+[Julia](https://www.karlsims.com/julia.html)
+
 ## Video Links
 
 Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
