@@ -89,6 +89,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Life - Nonlife](https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life?language=en)
 
+[Connection Machine](https://www.youtube.com/watch?v=IjmostrFetg&list=PLWmIsQcAzRkqo1PebLbdm6o9qRAy8mvD2)
+
 ## Notebooks
 
 [Chaos Game](https://colab.research.google.com/drive/11ljbmmUp6uvikRybdkv9gtQ0HaiTpmHz?usp=sharing)
