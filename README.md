@@ -111,6 +111,12 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Reservoir Computer](https://colab.research.google.com/drive/1Npy7TXzsS9qRWOM1s0ppdEzvyACA-VVx?usp=sharing)
 
+[Fourier](https://colab.research.google.com/drive/1A9ZasCSCDB0GryWxQVKiWqozbgbxIqGA?usp=sharing)
+
+[Compressed Sensing](https://colab.research.google.com/drive/1_8u7TFQSJr2fspO1M-8uHUL03vYfu2y8?usp=sharing)
+
+
+
 <!--
 [Pytorch Linear](https://colab.research.google.com/drive/12kqspkA8OTwX4Vcv8FCsEKx9mrwm6wV-?usp=sharing)
 -->
