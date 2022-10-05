@@ -115,7 +115,7 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [Compressed Sensing](https://colab.research.google.com/drive/1_8u7TFQSJr2fspO1M-8uHUL03vYfu2y8?usp=sharing)
 
-[Neural ODE](https://colab.research.google.com/drive/1dAeS-V5hu94D2rtYKq0eO7p-BgSWhVTk?usp=sharing)
+[Neural ODE](https://colab.research.google.com/drive/1NP4KbDT5L150Az3hGg1_Yg_xc_cQcX7Y?usp=sharing)
 
 [LCG RNG](https://colab.research.google.com/drive/1_aEnPAjkPaTy6JDPaf_I5TA-RMYNFv9v?usp=sharing)
 
