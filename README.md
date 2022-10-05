@@ -9,6 +9,8 @@
 
 ## Links
 
+[Forecasting the outcome of spintronic experiments with Neural Ordinary Differential Equations](https://www.nature.com/articles/s41467-022-28571-7)
+
 [Evolving Virtual Creatures](https://www.karlsims.com/papers/siggraph94.pdf)
 
 [Evolving 3D Morphology and Behavior by Competition](https://www.karlsims.com/papers/alife94.pdf)
