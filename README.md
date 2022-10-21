@@ -125,6 +125,8 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 [Pytorch Linear](https://colab.research.google.com/drive/12kqspkA8OTwX4Vcv8FCsEKx9mrwm6wV-?usp=sharing)
 -->
 
+[Hypervectors](https://neuroscience.berkeley.edu/wp-content/uploads/2016/05/Pentti_Kanerva-NICE2016-slides.pdf)
+
 ## Software
 
 [Golly](http://golly.sourceforge.net/)
