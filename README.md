@@ -92,9 +92,13 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 [Life - Nonlife](https://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life?language=en)
 
 [Connection Machine](https://www.youtube.com/watch?v=IjmostrFetg&list=PLWmIsQcAzRkqo1PebLbdm6o9qRAy8mvD2)
+
 [Birth of The Transistor](https://www.youtube.com/watch?v=ihkRwArnc1k)
+
 [Circuits in Stone](https://www.youtube.com/watch?v=uGRNXmWng3M)
+
 [The Calculator Wars](https://www.youtube.com/watch?v=ansXGewduN4)
+
 [The technologial giant of the micron world](https://www.youtube.com/watch?v=G40YwOg0_B8)
 
 
