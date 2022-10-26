@@ -101,7 +101,7 @@ Note: Watch on 1.5x or 2x. Skip intros etc. with L key.
 
 [The technologial giant of the micron world](https://www.youtube.com/watch?v=G40YwOg0_B8)
 
-
+[ Secret History of Silicon Valley ](https://www.youtube.com/watch?v=ZTC_RxWN_xo)
 
 ## Notebooks
 
